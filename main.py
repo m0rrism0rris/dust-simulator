@@ -1,8 +1,8 @@
 import os, sys, time
 from random import random, seed
 from math import atan2, cos, hypot, pi, sin, sqrt
-os.chdir('/Users/cy4n/Desktop/python/science')
-import color, particle
+os.chdir(os.path.expanduser('~/Desktop/python/science'))
+import particle
 
 # retro graphics
 def ascii2(w, q1, q2, t):

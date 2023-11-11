@@ -1,4 +1,4 @@
 # dust-simulator
-Simulates the formation of solar systems with ASCII.
+Simulates the formation of solar systems and displays them using text graphics in (significantly accelerated) real time
 
-[https://raw.githubusercontent.com/m0rrism0rris/dust-simulator/main/solarsys.png]
+![example](https://raw.githubusercontent.com/m0rrism0rris/dust-simulator/main/solarsys.png)
